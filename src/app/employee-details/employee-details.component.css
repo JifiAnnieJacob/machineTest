@@ -1,0 +1,24 @@
+.card{
+    margin-top: 15px;
+    border: 1px solid rgb(8, 8, 8);
+    width: 550px;
+    top:5%;
+    left:32%;
+    padding: 45px;
+    position: absolute;
+    /* background-color: lightgray; */
+}
+
+#genRd label {
+    float: left;
+    clear: none;
+    display: block;
+    padding: 0px 1em 0px 8px;
+  }
+  
+  #genRd input[type=radio],
+  #genRd input.radio {
+    float: left;
+    clear: none;
+    margin: 2px 0 0 2px;
+  }
